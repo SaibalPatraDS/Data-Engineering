@@ -1,0 +1,54 @@
+/*
+ * INSERT INTO MODEL
+*/
+
+INSERT INTO model (model, EngineType) values ('Willms', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Schiller', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Bode', 'Diesel');
+INSERT INTO model (model, EngineType) values ('Haley', 'Electric');
+INSERT INTO model (model, EngineType) values ('King', 'Electric');
+INSERT INTO model (model, EngineType) values ('Hettinger', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Kihn', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Langosh', 'Petrol');
+INSERT INTO model (model, EngineType) values ('McCullough', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Skiles', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Jakubowski', 'Electric');
+INSERT INTO model (model, EngineType) values ('Miller', 'Electric');
+INSERT INTO model (model, EngineType) values ('Sanford', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Yundt', 'Diesel');
+INSERT INTO model (model, EngineType) values ('Waters', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Pouros', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Hartmann', 'Diesel');
+INSERT INTO model (model, EngineType) values ('Daniel', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Ruecker', 'Diesel');
+INSERT INTO model (model, EngineType) values ('Leuschke', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Bednar', 'Electric');
+INSERT INTO model (model, EngineType) values ('Nikolaus', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Cassin', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Kessler', 'Electric');
+INSERT INTO model (model, EngineType) values ('Block', 'Electric');
+INSERT INTO model (model, EngineType) values ('Christiansen', 'Diesel');
+INSERT INTO model (model, EngineType) values ('Kilback', 'Electric');
+INSERT INTO model (model, EngineType) values ('Metz', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Koch', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Smitham', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Becker', 'Electric');
+INSERT INTO model (model, EngineType) values ('Medhurst', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Heidenreich', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Mann', 'Diesel');
+INSERT INTO model (model, EngineType) values ('Walsh', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Koepp', 'Electric');
+INSERT INTO model (model, EngineType) values ('Bartoletti', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Wilderman', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Sauer', 'Electric');
+INSERT INTO model (model, EngineType) values ('Bogan', 'Electric');
+INSERT INTO model (model, EngineType) values ('Hermiston', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Sporer', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Brekke', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Kemmer', 'Electric');
+INSERT INTO model (model, EngineType) values ('Hammes', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Rohan', 'Hybrid');
+INSERT INTO model (model, EngineType) values ('Zulauf', 'Electric');
+INSERT INTO model (model, EngineType) values ('Mertz', 'Diesel');
+INSERT INTO model (model, EngineType) values ('Wiegand', 'Petrol');
+INSERT INTO model (model, EngineType) values ('Wintheiser', 'Electric');
