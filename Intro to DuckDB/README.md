@@ -9,19 +9,21 @@
 
 ## Folder Looks Like
 
-├── Intro to DuckDB
-│   ├── .vscode
-│   │   ├── settings
-│   ├── Data
-│   ├── nyc_yellow_taxi_2023_01-06
-│   │   ├── **/*.parquet
-│   ├── venv
-│   ├── ├── Include
-│   ├── ├── Lib
-│   ├── ├── Scripts
-│   ├── ├── Share
-│   ├── ├── pyvenv
-├── modify_data.py
-├── notebook.py
-├── requirements.txt
-└── .gitignore
+<pre> 
+  ├── Intro to DuckDB
+  │   ├── .vscode
+  │   │   ├── settings
+  │   ├── Data
+  │   ├── nyc_yellow_taxi_2023_01-06
+  │   │   ├── **/*.parquet
+  │   ├── venv
+  │   ├── ├── Include
+  │   ├── ├── Lib
+  │   ├── ├── Scripts
+  │   ├── ├── Share
+  │   ├── ├── pyvenv
+  ├── modify_data.py
+  ├── notebook.py
+  ├── requirements.txt
+  └── .gitignore
+</pre>
